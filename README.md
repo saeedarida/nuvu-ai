@@ -9,7 +9,7 @@ Cambridge is the first school enabled. Sign in with your own NuVu Cambridge acco
 Import this GitHub repository as a plugin marketplace and install **NuVu Slides**, or use the Codex CLI:
 
 ```sh
-codex plugin marketplace add nuvu/nuvu-ai
+codex plugin marketplace add saeedarida/nuvu-ai
 codex plugin add nuvu-slides@nuvu
 ```
 
@@ -22,7 +22,7 @@ For Claude web and Desktop, add a custom connector in connector settings using `
 For Claude Code:
 
 ```text
-/plugin marketplace add nuvu/nuvu-ai
+/plugin marketplace add saeedarida/nuvu-ai
 /plugin install nuvu-slides@nuvu
 ```
 

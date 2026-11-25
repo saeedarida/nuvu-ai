@@ -8,7 +8,7 @@
     "url": "https://www.nuvustudio.com"
   },
   "homepage": "https://cambridge.nuvustudio.com/mcp/connect",
-  "repository": "https://github.com/nuvu/nuvu-ai",
+  "repository": "https://github.com/saeedarida/nuvu-ai",
   "extensions": {
     "com.openai": {
       "interface": {
