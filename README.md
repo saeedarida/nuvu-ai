@@ -6,7 +6,9 @@ Cambridge is the first school enabled. Sign in with your own NuVu Cambridge acco
 
 ## Codex
 
-Import this GitHub repository as a plugin marketplace and install **NuVu Slides**, or use the Codex CLI:
+Ask Codex: “Install the NuVu Slides plugin from https://github.com/saeedarida/nuvu-ai and help me connect with my NuVu login.”
+
+Codex can add the catalog and install the plugin for you. You still approve the NuVu sign-in yourself. If using the Codex CLI directly:
 
 ```sh
 codex plugin marketplace add saeedarida/nuvu-ai
