@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "nuvu-slides",
+  "version": "1.0.0",
+  "description": "Read and edit NuVu presentations with your own NuVu login.",
+  "author": {
+    "name": "NuVu",
+    "url": "https://www.nuvustudio.com"
+  },
+  "homepage": "https://cambridge.nuvustudio.com/mcp/connect",
+  "repository": "https://github.com/nuvu/nuvu-ai",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "NuVu Slides",
+        "shortDescription": "Work on your NuVu presentations",
+        "longDescription": "Sign in with NuVu, then share presentation links to read or edit the presentations you can access. Cambridge is the first school enabled.",
+        "developerName": "NuVu",
+        "category": "Productivity",
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "websiteURL": "https://cambridge.nuvustudio.com/mcp/connect",
+        "defaultPrompt": [
+          "Show my NuVu presentations.",
+          "Help me edit this NuVu presentation."
+        ],
+        "brandColor": "#176E68"
+      }
+    }
+  }
+}

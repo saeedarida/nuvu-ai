@@ -1,0 +1,9 @@
+{
+  "name": "nuvu-slides",
+  "version": "1.0.0",
+  "description": "Read and edit NuVu presentations with your own NuVu login.",
+  "author": {
+    "name": "NuVu"
+  },
+  "homepage": "https://cambridge.nuvustudio.com/mcp/connect"
+}

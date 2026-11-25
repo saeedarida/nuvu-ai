@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nuvu_slides": {
+      "type": "http",
+      "url": "https://cambridge.nuvustudio.com/mcp"
+    }
+  }
+}

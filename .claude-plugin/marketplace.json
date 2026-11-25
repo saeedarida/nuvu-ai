@@ -1,0 +1,14 @@
+{
+  "name": "nuvu",
+  "owner": {
+    "name": "NuVu"
+  },
+  "plugins": [
+    {
+      "name": "nuvu-slides",
+      "source": "./plugins/nuvu-slides",
+      "description": "Read and edit NuVu presentations using your own NuVu account.",
+      "version": "1.0.0"
+    }
+  ]
+}

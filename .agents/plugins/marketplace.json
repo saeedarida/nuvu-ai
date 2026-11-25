@@ -1,0 +1,20 @@
+{
+  "name": "nuvu",
+  "interface": {
+    "displayName": "NuVu"
+  },
+  "plugins": [
+    {
+      "name": "nuvu-slides",
+      "source": {
+        "source": "local",
+        "path": "./plugins/nuvu-slides"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
